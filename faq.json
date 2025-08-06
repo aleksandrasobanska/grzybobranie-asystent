@@ -1,0 +1,51 @@
+[
+    {
+        "keywords": [
+            "dwa pionki", "jedno pole", "na polu", "wspólne pole", "spotkanie pionków",
+            "pionek z pionkiem", "to samo pole", "jeden pionek", "pionki razem"
+        ],
+        "answer": "Zgodnie z zasadami, jeśli Twój pionek trafi na pole zajęte przez innego gracza, musisz cofnąć się o jedno pole. Nie można stać na jednym polu wspólnie."
+    },
+    {
+        "keywords": [
+            "dokładnie", "na metę", "meta", "wejść na metę", "przekroczyć metę", "za dużo", "więcej oczek", "przekroczyłem metę"
+        ],
+        "answer": "Aby zakończyć grę, należy wyrzucić dokładnie tyle oczek, by stanąć na polu mety. Jeśli liczba oczek jest większa, pionek cofa się o nadwyżkę."
+    },
+    {
+        "keywords": [
+            "trujący grzyb", "fioletowy", "grzyb trujący", "pole fioletowe", "wraca na start", "trujący", "jagoda"
+        ],
+        "answer": "Jeśli staniesz na polu z trującym grzybem (fioletowym), wracasz na start."
+    },
+    {
+        "keywords": [
+            "pominięcie", "pominąć ruch", "nie rusza się", "nie ruszam się", "opóźnienie ruchu"
+        ],
+        "answer": "W tej grze nie można pomijać ruchów. Każdy gracz rzuca kostką i się porusza."
+    },
+    {
+        "keywords": [
+            "start", "początek", "kto zaczyna", "rozpoczęcie gry"
+        ],
+        "answer": "Grę zaczyna najmłodszy gracz. Potem ruch jest zgodny z ruchem wskazówek zegara."
+    },
+    {
+        "keywords": [
+            "pomoc", "przekazanie", "pożyczka", "oddać grzyby", "oddanie pionka"
+        ],
+        "answer": "Nie można przekazywać grzybów ani pionków innym graczom. Każdy zdobywa punkty indywidualnie."
+    },
+    {
+        "keywords": [
+            "remis", "jednoczesne ukończenie", "dwa na mecie", "dogrywka"
+        ],
+        "answer": "Jeśli kilku graczy kończy w tej samej kolejce i mają tyle samo punktów, jest dogrywka."
+    },
+    {
+        "keywords": [
+            "czerwony grzyb", "pole bonusowe", "grzyb bonusowy", "specjalne pole"
+        ],
+        "answer": "Za stanęcie na polu z czerwonym grzybem możesz zabrać dodatkowego grzybka."
+    }
+]
