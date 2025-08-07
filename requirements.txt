@@ -1,0 +1,5 @@
+streamlit
+unidecode
+transformers
+torch
+scipy
